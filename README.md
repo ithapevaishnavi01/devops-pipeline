@@ -94,6 +94,17 @@ Repository:
 * AWS_REGION
 * ECR_REPOSITORY
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/c8401889-0363-412c-b567-640cfa0efeda" />
+
+  <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/96093e56-591e-4b58-b55b-a804b5addcc0" />
+  <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/d266107d-347e-41be-ad35-7ca55f1310e5" />
+  <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/5c7700fb-73d4-4ce6-b410-6bc385355858" />
+  <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/cb43a725-5860-4393-8b76-1b4312b8c458" />
+
+
+
+
+
 ## Author
 
 Vaishnavi
