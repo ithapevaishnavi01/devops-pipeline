@@ -14,6 +14,7 @@ This project demonstrates a complete DevOps CI/CD pipeline using:
 
 ## Architecture
 
+
 ```text
 GitHub
    |
